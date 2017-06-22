@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <!--http://www.schemecolor.com/nepal-flag-colors.php-->
+    <!--https://material.io/color-->
+    <!--https://www.sessions.edu/color-calculator/-->
+    <color name="colorPrimary">#003893</color>
+    <color name="colorPrimaryLight">#4D61C4</color>
+    <color name="colorPrimaryDark">#001464</color>
+    <color name="colorPrimaryComplementary">#933b00</color>
+    <color name="colorPrimaryMonochromatic">#183e7a</color>
+    <color name="colorAccent">#DC143C</color>
+    <color name="colorAccentLight">#FF5966</color>
+    <color name="colorAccentDark">#A20016</color>
+    <color name="colorAccentComplementary">#3cdc14</color>
+    <color name="colorAccentMonochromatic">#c23854</color>
+    <color name="colorAnalogous">#9509b8</color>
+    <color name="colorTriadic">#b8a609</color>
 </resources>
